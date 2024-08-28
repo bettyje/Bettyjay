@@ -1,14 +1,14 @@
 # Betty Jelagat
 
-👩‍💻 Software Engineering Student at ALX Africa
+👩‍💻 Software Engineering Student at Moringa School.
 
-🌍 Eldoret, Kenya
+🌍 Nairobi, Kenya
 
 📚 Currently learning C, Python, JavaScript, HTML, CSS, Java, and SQL
 
 ## About Me
 
-Hello! I'm Betty Jelagat, a passionate software engineering student at ALX Africa. I have a strong interest in web development, software design, and problem-solving. I love the thrill of turning ideas into functional and user-friendly applications. As a student, am focused on building a strong foundation in these programming languages and developing my skills in software development. My studies involve learning to write code, designing and implementing algorithms, and creating applications and software systems. Ultimately, my goal is to become a skilled and proficient software engineer who can develop innovative solutions to complex problems.
+Hello! I'm Betty Jelagat, a passionate software engineering student at Moringa School, Kenya. I have a strong interest in web development, software design, and problem-solving. I love the thrill of turning ideas into functional and user-friendly applications. As a student, i'm focused on building a strong foundation in these programming languages and developing my skills in software development. My studies involve learning to write code, designing and implementing algorithms, and creating applications and software systems. Ultimately, my goal is to become a skilled and proficient software engineer who can develop innovative solutions to complex problems.
 
 ## Skills
 
@@ -19,7 +19,7 @@ Hello! I'm Betty Jelagat, a passionate software engineering student at ALX Afric
 
 ## Education
 
-- **ALX Africa**: Software Engineering Student (Present)
+- **Moringa School**: Software Engineering Student (Present)
 -**I'm currently working towards being a backend developer.
 ## Interests
 
