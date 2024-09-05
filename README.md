@@ -4,7 +4,7 @@
 
 🌍 Nairobi, Kenya
 
-📚 Currently learning C, Python, JavaScript, HTML, CSS, Java, and SQL
+📚 Currently learning Python, JavaScript, HTML, CSS, Java, and SQL
 
 ## About Me
 
@@ -12,8 +12,8 @@ Hello! I'm Betty Jelagat, a passionate software engineering student at Moringa S
 
 ## Skills
 
-- **Programming Languages**: C, Python, JavaScript, HTML, CSS, Java, SQL
-- **Web Development**: Front-end development using HTML, CSS, JavaScript, and frameworks like React and Angular
+- **Programming Languages**: Python, JavaScript, HTML, CSS, Java, SQL
+- **Web Development**: Front-end development using HTML, CSS, JavaScript, and frameworks like React
 - **Database**: SQL, MySQL
 - **Version Control**: Git, GitHub
 
